@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RohitShubankar/housekeeping.git"
+    "url": "git+https://github.com/RohitShubankar/udaan.git"
   },
   "author": "Rohit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RohitShubankar/housekeeping/issues"
+    "url": "https://github.com/RohitShubankar/udaan/issues"
   },
-  "homepage": "https://github.com/RohitShubankar/housekeeping#readme"
+  "homepage": "https://github.com/RohitShubankar/udaan#readme"
 }
